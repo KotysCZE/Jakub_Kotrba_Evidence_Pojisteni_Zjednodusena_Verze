@@ -1,0 +1,2 @@
+# Jakub_Kotrba_Evidence_Pojisteni_Zjednodusena_Verze
+Zjednodušená verze závěrečného projektu pro ITNetwork
